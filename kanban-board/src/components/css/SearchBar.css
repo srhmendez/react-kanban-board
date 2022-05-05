@@ -10,3 +10,8 @@ input.search-bar{
     margin-left:2.5%;
     width:60%;
 }
+.search-task-text{
+    color:white;
+    font-size:12px;
+    margin-bottom:.2rem;
+}

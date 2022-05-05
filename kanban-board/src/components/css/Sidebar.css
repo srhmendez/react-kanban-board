@@ -3,21 +3,22 @@ div.side-menu-bar{
     position: fixed;
     top: 0;
     left: 0;
-    width: 5%;
+    width: 3%;
     height: 100%;
     transition: all 0.5s ease;
     display:flex;
-    flex-direction: column;
-    padding:1.5%;
-    
+    flex-direction: column;    
     
 }
 img.logo-responsive{
-    margin:0;
+    margin:0 auto;
+    padding:.2%;
+    max-width:15px;
+    margin-top:30px;
 }
 img.icons-responsive{
     margin:0 auto;
-    padding:3%;
+    padding:.2%;
     max-width:15px;
     margin-top:30px;
 }
