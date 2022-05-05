@@ -1,0 +1,12 @@
+img.search-bar-icon{
+    max-width:10px;
+    margin-right:5px;
+}
+input.search-bar{
+    width:60%;
+    margin-left:0;
+}
+.search-bar{
+    margin-left:2.5%;
+    width:60%;
+}

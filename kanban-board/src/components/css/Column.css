@@ -1,0 +1,11 @@
+body{
+    color: rgb(5, 68, 104);;
+    width:20px;
+    height:20px;
+    background-color: whitesmoke;
+}
+.col-{
+    background-color:whitesmoke;
+    width:20%;
+    min-height:70vh;
+}
